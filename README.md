@@ -5,6 +5,6 @@
  <BR>
  <h1>WEEK 2:https://github.com/saiteja2503/gen-ai-lab/blob/main/2325_week2_assignment_2.ipynb</h1>
  <BR>
- <h1>WEEK 3:https://github.com/saiteja2503/gen-ai-lab/blob/main/2325_week_3_assignment_3.ipynb</h1>
-<br><br>
+ <h1>WEEK 3:https://github.com/saiteja2503/gen-ai-lab/blob/main/2325_WEEK3_Assignment_3.ipynb</h1>
+<br>
 <hr>
