@@ -13,6 +13,8 @@
  <BR>
  <h1>WEEK 6:https://github.com/saiteja2503/gen-ai-lab/blob/main/2325_week_6_assignment_6.ipynb</h1>
  <BR>
+ <h1>week 7:https://github.com/saiteja2503/gen-ai-lab/blob/main/2325_week_7_assignment_7.ipynb</h1>
+ <br>
  
 
 
